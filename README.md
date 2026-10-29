@@ -72,7 +72,7 @@
 - [Croatia Digital Nomad Visa](https://www.digitalnomadcroatia.com/) - A one-year visa for digital nomads wanting to live in Croatia.
 - [Georgia's Remotely from Georgia Program](https://stopcov.ge/en/RemotelyFromGeorgia) - A visa program for digital nomads wanting to work remotely from Georgia (the country).
 - [Bali Digital Nomad Visa](https://www.balilife.com/digital-nomad-visa/) - A new visa designed to attract digital nomads to Bali.
-- [Thailand DTV Checklist](https://shop.pxbt.app/dtv-checklist) - Document checklist for Thailand's 5-year Destination Thailand Visa (DTV) under the rules in force since 31 August 2026, with common refusal reasons and embassy sources.
+- [Thailand DTV Checklist](https://shop.pxbt.app/dtv-checklist?src=visa_gh_brandonhimpfen) - Document checklist for Thailand's 5-year Destination Thailand Visa (DTV) under the rules in force since 31 August 2026, with common refusal reasons and embassy sources.
 
 ## Communities and Networking
 
